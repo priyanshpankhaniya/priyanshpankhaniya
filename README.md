@@ -1,5 +1,7 @@
 # Priyansh Pankhaniya
 
+![Typing introduction](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=900&color=38BDF8&center=false&vCenter=true&lines=Full-stack+Developer;Building+Web+Applications;Gujarat%2C+India)
+
 Full-stack developer · Gujarat, India
 
 [Portfolio](https://www.priyanshpankhaniya.in) · [LeetCode](https://leetcode.com/u/priyanshpankhaniya/)
