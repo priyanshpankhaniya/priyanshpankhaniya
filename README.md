@@ -81,28 +81,12 @@ A multi-layer fitness application exploring APIs, MVC architecture, repositories
 ## LeetCode
 
 <a href="https://leetcode.com/u/priyanshpankhaniya/">
-<img src="https://img.shields.io/badge/1976%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="1976 LeetCode problems solved" />
+<img src="https://leetcode-stats.tashif.codes/priyanshpankhaniya/stats/svg?theme=light" alt="Live LeetCode statistics for Priyansh Pankhaniya" />
 </a>
 
-<table>
-<tr>
-<td align="center"><b>Contest Rating</b><br/><b>1,414</b></td>
-<td align="center"><b>Global Rank</b><br/><b>2,691</b></td>
-<td align="center"><b>Badges</b><br/><b>4</b></td>
-<td align="center"><b>Active Days</b><br/><b>285</b></td>
-</tr>
-<tr>
-<td align="center"><b>Easy</b><br/>552 / 978</td>
-<td align="center"><b>Medium</b><br/>1013 / 2152</td>
-<td align="center"><b>Hard</b><br/>411 / 993</td>
-<td align="center"><b>Max Streak</b><br/>57</td>
-</tr>
-</table>
-
-**Weekly Contest:** 482 · **Solved:** 1976 / 4123 · **Attempting:** 38 · **Submissions:** 2,968 past year
+*Stats refresh automatically; the provider caches data for up to 24 hours.*
 
 [![View LeetCode Profile](https://img.shields.io/badge/View_my_profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshpankhaniya/)
-
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://www.priyanshpankhaniya.in)
