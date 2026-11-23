@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title description">
+  <title id="title">FleetFlow cover art</title>
+  <desc id="description">An amber dispatch marker travels along a cream route through three stops on a midnight map, alongside the FleetFlow wordmark. Reduced-motion viewers see the completed route and a stationary marker.</desc>
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111E30"/><stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#BCC6B8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    .reduced-marker, .reduced-halos { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .motion-marker, .motion-halos { display: none; }
+      .reduced-marker, .reduced-halos { display: inline; }
+    }
+  </style>
+  <rect width="1200" height="500" rx="28" fill="url(#ink)"/>
+  <rect x="1" y="1" width="1198" height="498" rx="27" fill="none" stroke="#E8E1CB" stroke-opacity=".24" stroke-width="2"/>
+  <rect x="24" y="24" width="1152" height="452" rx="12" fill="url(#grid)"/>
+  <path d="M600 24V476" stroke="#E8E1CB" stroke-opacity=".16" stroke-width="2"/>
+  <text x="65" y="278" fill="#F5EEDB" font-family="Arial, Helvetica, sans-serif" font-size="101" font-weight="800" letter-spacing="-5">FleetFlow</text>
+  <circle cx="536" cy="254" r="9" fill="#DEA84B"/>
+  <path d="M72 317H256" stroke="#DEA84B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M661 390C731 370 733 267 799 253S892 324 947 296S1011 155 1091 137" fill="none" stroke="#E8E1CB" stroke-opacity=".18" stroke-width="25" stroke-linecap="round"/>
+  <path d="M661 390C731 370 733 267 799 253S892 324 947 296S1011 155 1091 137" fill="none" stroke="#F3E9D2" stroke-width="7" stroke-linecap="round"/>
+  <g class="motion-halos" fill="#DEA84B">
+    <circle cx="799" cy="253" r="32" opacity=".1"><animate attributeName="opacity" values=".1;.1;.72;.72" keyTimes="0;.26;.3;1" dur="8s" fill="freeze"/></circle>
+    <circle cx="947" cy="296" r="34" opacity=".1"><animate attributeName="opacity" values=".1;.1;.72;.72" keyTimes="0;.57;.62;1" dur="8s" fill="freeze"/></circle>
+    <circle cx="1091" cy="137" r="38" opacity=".1"><animate attributeName="opacity" values=".1;.1;.72;.72" keyTimes="0;.84;.89;1" dur="8s" fill="freeze"/></circle>
+  </g>
+  <g class="reduced-halos" fill="#DEA84B" opacity=".72">
+    <circle cx="799" cy="253" r="32"/><circle cx="947" cy="296" r="34"/><circle cx="1091" cy="137" r="38"/>
+  </g>
+  <circle cx="661" cy="390" r="30" fill="#DEA84B" fill-opacity=".18"/>
+  <circle cx="661" cy="390" r="19" fill="#DEA84B" stroke="#FFF4DB" stroke-width="5"/>
+  <path d="M661 379V401M650 390H672" stroke="#111E30" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="799" cy="253" r="22" fill="#111E30" stroke="#F3E9D2" stroke-width="6"/><circle cx="799" cy="253" r="5" fill="#F3E9D2"/>
+  <rect x="925" y="274" width="44" height="44" rx="4" fill="#111E30" stroke="#F3E9D2" stroke-width="6"/><path d="M935 295H959" stroke="#F3E9D2" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1091 109L1119 137L1091 165L1063 137Z" fill="#111E30" stroke="#F3E9D2" stroke-width="6"/><circle cx="1091" cy="137" r="5" fill="#F3E9D2"/>
+  <g class="motion-marker"><circle cx="661" cy="390" r="15" fill="#DEA84B" stroke="#FFF4DB" stroke-width="5"/><circle cx="661" cy="390" r="4" fill="#111E30"/><animateMotion path="M0 0C70 -20 72 -123 138 -137S231 -66 286 -94S350 -235 430 -253" keyPoints="0;.344;.344;.622;.622;1;1" keyTimes="0;.28;.34;.59;.65;.88;1" calcMode="linear" dur="8s" fill="freeze"/></g>
+  <g class="reduced-marker"><circle cx="1091" cy="137" r="15" fill="#DEA84B" stroke="#FFF4DB" stroke-width="5"/><circle cx="1091" cy="137" r="4" fill="#111E30"/></g>
+  <path d="M630 80H1140M630 430H1140" stroke="#E8E1CB" stroke-opacity=".22" stroke-width="2"/><circle cx="630" cy="80" r="4" fill="#DEA84B"/><circle cx="1140" cy="430" r="4" fill="#DEA84B"/>
+</svg>
