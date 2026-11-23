@@ -78,11 +78,30 @@ A multi-layer fitness application exploring APIs, MVC architecture, repositories
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Problem Solving
+## LeetCode
 
-I use LeetCode to practice data structures, algorithms, and coding interviews.
+<a href="https://leetcode.com/u/priyanshpankhaniya/">
+<img src="https://img.shields.io/badge/1976%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="1976 LeetCode problems solved" />
+</a>
 
-[![LeetCode Profile](https://img.shields.io/badge/View_my_profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshpankhaniya/)
+<table>
+<tr>
+<td align="center"><b>Contest Rating</b><br/><b>1,414</b></td>
+<td align="center"><b>Global Rank</b><br/><b>2,691</b></td>
+<td align="center"><b>Badges</b><br/><b>4</b></td>
+<td align="center"><b>Active Days</b><br/><b>285</b></td>
+</tr>
+<tr>
+<td align="center"><b>Easy</b><br/>552 / 978</td>
+<td align="center"><b>Medium</b><br/>1013 / 2152</td>
+<td align="center"><b>Hard</b><br/>411 / 993</td>
+<td align="center"><b>Max Streak</b><br/>57</td>
+</tr>
+</table>
+
+**Weekly Contest:** 482 · **Solved:** 1976 / 4123 · **Attempting:** 38 · **Submissions:** 2,968 past year
+
+[![View LeetCode Profile](https://img.shields.io/badge/View_my_profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshpankhaniya/)
 
 ## Let's Connect
 
