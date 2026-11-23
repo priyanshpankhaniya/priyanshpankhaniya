@@ -1,61 +1,89 @@
 <div align="center">
 
-# Hi, I'm Priyansh Pankhaniya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Priyansh+Pankhaniya;Full-Stack+Developer;Building+Practical+Web+Applications" alt="Typing introduction" />
 
-**Full-stack developer building practical web applications** · Gujarat, India
+**Gujarat, India** · Full-stack applications · Real-time systems · Developer tooling
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.priyanshpankhaniya.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://www.priyanshpankhaniya.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshpankhaniya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshpankhaniya)
 
 </div>
 
-## Featured Projects
+## About
+
+I build maintainable full-stack applications across Angular, .NET, Next.js, React, Supabase, PostgreSQL, and Python. I enjoy turning complex workflows into clear, reliable user experiences.
+
+## Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [FleetFlow](https://github.com/priyanshpankhaniya/fleetflow)
 
-Application project focused on fleet management.
+A fleet operations dashboard for vehicle, trip, driver, maintenance, and expense management.
+
+**Stack:** Angular · .NET · PostgreSQL · SignalR · Docker
+
+[![Live](https://img.shields.io/badge/Live_App-22C55E?style=flat-square&logo=google-chrome&logoColor=white)](https://fleetflow.tachyontracer.in)
+[![Source](https://img.shields.io/badge/Source-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshpankhaniya/fleetflow)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Kizuna](https://github.com/priyanshpankhaniya/Kizuna)
 
-Application project with a collaborative focus.
+A private real-time bookmark manager with Google sign-in, metadata enrichment, categories, and cross-tab synchronization.
+
+**Stack:** Next.js · React · Supabase · PostgreSQL · TypeScript
+
+[![Source](https://img.shields.io/badge/Source-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshpankhaniya/Kizuna)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Birdbox](https://github.com/priyanshpankhaniya/birdbox)
 
-Explore the repository and source code.
+A responsive product and order workflow built around searchable tables, forms, dialogs, and Redux-managed state.
+
+**Stack:** React · Redux Toolkit · Ant Design · TypeScript
+
+[![Source](https://img.shields.io/badge/Source-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshpankhaniya/birdbox)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [FITPRO](https://github.com/priyanshpankhaniya/FITPRO)
 
-Fitness-focused application project.
+A multi-layer fitness application exploring APIs, MVC architecture, repositories, AI components, Docker, and SQL.
+
+**Stack:** C# · ASP.NET · Python · SQL · Docker
+
+[![Source](https://img.shields.io/badge/Source-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshpankhaniya/FITPRO)
 
 </td>
 </tr>
 </table>
 
-## Tech & Tools
+## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## More
+## Problem Solving
 
-- [Portfolio](https://www.priyanshpankhaniya.in)
-- [LeetCode](https://leetcode.com/u/priyanshpankhaniya/)
-- [GitHub repositories](https://github.com/priyanshpankhaniya?tab=repositories)
+I use LeetCode to practice data structures, algorithms, and coding interviews.
+
+[![LeetCode Profile](https://img.shields.io/badge/View_my_profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshpankhaniya/)
+
+## Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://www.priyanshpankhaniya.in)
